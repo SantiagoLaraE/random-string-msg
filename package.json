@@ -1,0 +1,27 @@
+{
+  "name": "random-string-msg",
+  "version": "1.0.1",
+  "description": "Random String Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoLaraE/random-string-msg.git"
+  },
+  "keywords": [],
+  "author": "Santiago Lara <oscarescobar773@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiagoLaraE/random-string-msg/issues"
+  },
+  "homepage": "https://github.com/SantiagoLaraE/random-string-msg#readme",
+  "bin": {
+    "random-string-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
