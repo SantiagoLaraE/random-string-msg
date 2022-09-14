@@ -1,6 +1,8 @@
-# random-str-msg
+# random-string-msg
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+Con random-string-msg podrás mostrar mensajes aleatorios.
+
+Fue desarrollado en el Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript de Platzi
 
 ## Install
 
